@@ -17,3 +17,4 @@ class Course
 
 end 
 
+Scraper.new.print_courses
